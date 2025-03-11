@@ -37,16 +37,15 @@ Kirja käyttää myös kahta mdbook-lisäosaa, jotka ovat osa tätä arkistoa. J
 $ cargo install --locked --path packages/mdbook-trpl
 ```
 
-## Building
+## Kokoaminen
 
-To build the book, type:
+Kootaksesi kirjan suorita:
 
 ```bash
 $ mdbook build
 ```
 
-The output will be in the `book` subdirectory. To check it out, open it in
-your web browser.
+Lopputulos löytyy `book`-hakemistosta. Voit avata sen selaimessasi:
 
 _Firefox:_
 
