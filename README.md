@@ -94,12 +94,9 @@ isn't strictly fixing an error, it might sit until the next time that we're
 working on a large revision: expect on the order of months or years. Thank you
 for your patience!
 
-### Translations
+### Käännökset
 
-We'd love help translating the book! See the [Translations] label to join in
-efforts that are currently in progress. Open a new issue to start working on
-a new language! We're waiting on [mdbook support] for multiple languages
-before we merge any in, but feel free to start!
+Haluaisimme apua kirjan kääntämisessä! Katso [Translations]-tunniste liittyäksesi käynnissä oleviin käännösprojekteihin. Jos haluat aloittaa uuden kielen käännöksen, avaa uusi issue! Odotamme [mdbook support] monikielistä tukea ennen kuin voimme yhdistää käännöksiä virallisesti, mutta voit silti aloittaa työn.
 
 [Translations]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3ATranslations
 [mdbook support]: https://github.com/rust-lang/mdBook/issues/5
