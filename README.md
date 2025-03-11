@@ -4,7 +4,7 @@
 
 Tämä arkisto sisältää The Rust Programming Language -kirjan lähdekoodin.
 
-[The book is available in dead-tree form from No Starch Press][nostarch].
+[Kirja on saatavilla painettuna No Starch Pressin kautta.][nostarch].
 
 [nostarch]: https://nostarch.com/rust-programming-language-2nd-edition
 
