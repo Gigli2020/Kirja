@@ -31,10 +31,7 @@ rust-lang/rust käyttää tässä [tässä tiedostossa][rust-mdbook]. Saat sen t
 $ cargo install mdbook --locked --version <version_num>
 ```
 
-The book also uses two mdbook plugins which are part of this repository. If you
-do not install them, you will see warnings when building and the output will not
-look right, but you _will_ still be able to build the book. To use the plugins,
-you should run:
+Kirja käyttää myös kahta mdbook-lisäosaa jotka ovat osa tätä arkistoa. Jos et asenna niitä, saat varoituksia rakennusvaiheessa, ja lopputulos ei näytä oikealta, mutta voit silti koota kirjan. Ota lisäosat käyttöön asentamalla ne näin:
 
 ```bash
 $ cargo install --locked --path packages/mdbook-trpl
