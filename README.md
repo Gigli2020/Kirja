@@ -8,7 +8,7 @@ Tämä arkisto sisältää The Rust Programming Language -kirjan lähdekoodin.
 
 [nostarch]: https://nostarch.com/rust-programming-language-2nd-edition
 
-Voit myös lukea kirjan ilmaiseksi verkossa. Tarkista kirjan versio uusimmasta[stable], [beta], tai [nightly]Rust-julkaisusta. Be aware that issues
+Voit myös lukea kirjan ilmaiseksi verkossa. Tarkista kirjan versio uusimmasta [stable], [beta], tai [nightly]Rust-julkaisusta. Be aware that issues
 in those versions may have been fixed in this repository already, as those
 releases are updated less frequently.
 
