@@ -15,7 +15,7 @@ Voit myös lukea kirjan ilmaiseksi verkossa. Tarkista kirjan versio uusimmasta [
 [beta]: https://doc.rust-lang.org/beta/book/
 [nightly]: https://doc.rust-lang.org/nightly/book/
 
-Lataa kaikki kirjassa esiintyvät koodilistaukset[releases]-osiosta.
+Lataa kaikki kirjassa esiintyvät koodilistaukset [releases]-osiosta.
 
 [releases]: https://github.com/rust-lang/book/releases
 
