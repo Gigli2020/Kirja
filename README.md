@@ -65,17 +65,16 @@ $ Start-Process "chrome.exe" .\book\index.html  # Windows (PowerShell)
 $ start chrome.exe .\book\index.html            # Windows (Cmd)
 ```
 
-To run the tests:
+Suorita kirjan testit seuraavasti:
 
 ```bash
 $ cd packages/trpl
 $ mdbook test --library-path packages/trpl/target/debug/deps
 ```
 
-## Contributing
+## Osallistuminen
 
-We'd love your help! Please see [CONTRIBUTING.md][contrib] to learn about the
-kinds of contributions we're looking for.
+Haluaisimme apuasi! Katso [CONTRIBUTING.md][contrib] -tiedosto saadaksesi lisätietoa siitä, millaista tukea etsimme.
 
 [contrib]: https://github.com/rust-lang/book/blob/main/CONTRIBUTING.md
 
