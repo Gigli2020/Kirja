@@ -1,8 +1,8 @@
-# The Rust Programming Language
+# Rust-ohjelmointikieli
 
 ![Build Status](https://github.com/rust-lang/book/workflows/CI/badge.svg)
 
-This repository contains the source of "The Rust Programming Language" book.
+Tämä arkisto sisältää The Rust Programming Language -kirjan lähdekoodin.
 
 [The book is available in dead-tree form from No Starch Press][nostarch].
 
