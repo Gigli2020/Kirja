@@ -22,7 +22,7 @@ Lataa kaikki kirjassa esiintyvät koodilistaukset [releases]-osiosta.
 ## Vaatimukset
 
 Kirjan kokoaminen vaatii [mdBook]-työkalun, mielellään version mitä
-rust-lang/rust käyttää tässä [tässä tiedostossa[this file]][rust-mdbook]. Saat sen täältä:
+rust-lang/rust käyttää tässä [tässä tiedostossa][rust-mdbook]. Saat sen täältä:
 
 [mdBook]: https://github.com/rust-lang/mdBook
 [rust-mdbook]: https://github.com/rust-lang/rust/blob/master/src/tools/rustbook/Cargo.toml
