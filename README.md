@@ -21,7 +21,7 @@ Lataa kaikki kirjassa esiintyvät koodilistaukset [releases]-osiosta.
 
 ## Vaatimukset
 
-Building the book requires [mdBook], ideally the same version that
+Kirjan kokoaminen vaatii [mdBook], ideally the same version that
 rust-lang/rust uses in [this file][rust-mdbook]. To get it:
 
 [mdBook]: https://github.com/rust-lang/mdBook
