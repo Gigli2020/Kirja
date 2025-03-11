@@ -19,7 +19,7 @@ Lataa kaikki kirjassa esiintyvät koodilistaukset [releases]-osiosta.
 
 [releases]: https://github.com/rust-lang/book/releases
 
-## Requirements
+## Vaatimukset
 
 Building the book requires [mdBook], ideally the same version that
 rust-lang/rust uses in [this file][rust-mdbook]. To get it:
