@@ -80,11 +80,7 @@ Haluaisimme apuasi! Katso [CONTRIBUTING.md][contrib] -tiedosto saadaksesi lisät
 
 Koska kirja julkaistaan myös [painettuna][nostarch], ja haluamme pitää verkossa olevan version mahdollisimman lähellä painettua versiota, saattaa kestää odotettua kauemmin, ennen kuin käsittelemme ongelmia tai vetopyyntöjä.
 
-So far, we've been doing a larger revision to coincide with [Rust Editions](https://doc.rust-lang.org/edition-guide/). Between those larger
-revisions, we will only be correcting errors. If your issue or pull request
-isn't strictly fixing an error, it might sit until the next time that we're
-working on a large revision: expect on the order of months or years. Thank you
-for your patience!
+Olemme tähän mennessä tehneet suurempia päivityksiä [Rust Editions](https://doc.rust-lang.org/edition-guide/)-julkaisujen yhteydessä. Näiden isompien päivitysten välillä teemme vain virheenkorjauksia. Jos ongelmasi tai vetopyyntösi ei ole selkeä virheenkorjaus, se saattaa odottaa seuraavaa suurta päivitystä – tämä voi tarkoittaa kuukausia tai jopa vuosia. Kiitos kärsivällisyydestäsi!
 
 ### Käännökset
 
