@@ -6,11 +6,11 @@ Tämä arkisto sisältää The Rust Programming Language -kirjan lähdekoodin.
 
 Alla olevan tekstin linkit vievät Rust the book:in sivuille. src .md tiedostot käännetty ch 13 04 asti (66 tiedostoa käännetty tekoälyllä)
 
-[Kirja on saatavilla painettuna No Starch Pressin kautta][nostarch].
+[Kirja on saatavilla painettuna englanniksi No Starch Pressin kautta][nostarch].
 
 [nostarch]: https://nostarch.com/rust-programming-language-2nd-edition
 
-Voit myös lukea kirjan ilmaiseksi verkossa. Tarkista kirjan versio uusimmasta [stable], [beta], tai [nightly] Rust-julkaisusta. Huomaa, että näiden versioiden virheitä on saatettu jo korjata tässä arkistossa, koska julkaisut päivittyvät harvemmin.
+Voit myös lukea kirjan englanniksi ilmaiseksi verkossa. Tarkista kirjan versio uusimmasta [stable], [beta], tai [nightly] Rust-julkaisusta. Huomaa, että näiden versioiden virheitä on saatettu jo korjata tässä arkistossa, koska julkaisut päivittyvät harvemmin.
 
 
 [stable]: https://doc.rust-lang.org/stable/book/
