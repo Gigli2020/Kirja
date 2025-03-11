@@ -21,8 +21,8 @@ Lataa kaikki kirjassa esiintyvät koodilistaukset [releases]-osiosta.
 
 ## Vaatimukset
 
-Kirjan kokoaminen vaatii [mdBook], ideally the same version that
-rust-lang/rust uses in [this file][rust-mdbook]. To get it:
+Kirjan kokoaminen vaatii [mdBook], mielellään version mitä
+rust-lang/rust käyttää tässä [this file][rust-mdbook]. Saat sen täältä:
 
 [mdBook]: https://github.com/rust-lang/mdBook
 [rust-mdbook]: https://github.com/rust-lang/rust/blob/master/src/tools/rustbook/Cargo.toml
