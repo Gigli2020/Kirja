@@ -104,11 +104,8 @@ before we merge any in, but feel free to start!
 [Translations]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3ATranslations
 [mdbook support]: https://github.com/rust-lang/mdBook/issues/5
 
-## Spellchecking
+## Oikoluku
 
-To scan source files for spelling errors, you can use the `spellcheck.sh`
-script available in the `ci` directory. It needs a dictionary of valid words,
-which is provided in `ci/dictionary.txt`. If the script produces a false
-positive (say, you used the word `BTreeMap` which the script considers invalid),
-you need to add this word to `ci/dictionary.txt` (keep the sorted order for
-consistency).
+Voit tarkistaa lähdetiedostojen oikeinkirjoituksen käyttämällä spellcheck.sh-skriptiä, joka löytyy ci-hakemistosta. Se käyttää oikeiden sanojen sanastoa, joka on tallennettu ci/dictionary.txt-tiedostoon.
+
+Jos skripti tuottaa väärän positiivisen virheen (esim. käytit sanaa BTreeMap, jota skripti ei tunnista), lisää kyseinen sana ci/dictionary.txt-tiedostoon (pidä sanat aakkosjärjestyksessä).
