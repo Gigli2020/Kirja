@@ -21,7 +21,7 @@ Lataa kaikki kirjassa esiintyvät koodilistaukset [releases]-osiosta.
 
 ## Vaatimukset
 
-Kirjan kokoaminen vaatii [mdBook]-työkalun, mielellään version mitä
+Kirjan kokoaminen vaatii [mdBook]-työkalun, mieluiten version mitä
 rust-lang/rust käyttää tässä [tässä tiedostossa][rust-mdbook]. Saat sen täältä:
 
 [mdBook]: https://github.com/rust-lang/mdBook
@@ -31,7 +31,7 @@ rust-lang/rust käyttää tässä [tässä tiedostossa][rust-mdbook]. Saat sen t
 $ cargo install mdbook --locked --version <version_num>
 ```
 
-Kirja käyttää myös kahta mdbook-lisäosaa jotka ovat osa tätä arkistoa. Jos et asenna niitä, saat varoituksia rakennusvaiheessa, ja lopputulos ei näytä oikealta, mutta voit silti koota kirjan. Ota lisäosat käyttöön asentamalla ne näin:
+Kirja käyttää myös kahta mdbook-lisäosaa, jotka ovat osa tätä arkistoa. Jos et asenna niitä, saat varoituksia rakennusvaiheessa, ja lopputulos ei näytä oikealta, mutta voit silti koota kirjan. Ota lisäosat käyttöön asentamalla ne näin:
 
 ```bash
 $ cargo install --locked --path packages/mdbook-trpl
