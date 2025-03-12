@@ -21,7 +21,7 @@ $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 Tämä komento lataa skriptin ja käynnistää `rustup`-työkalun asennuksen, joka asentaa uusimman vakaan Rust-version. Saatat joutua syöttämään salasanasi. Jos asennus onnistuu, näet seuraavan viestin:
 
 ```text
-Rust on nyt asennettu. Mahtavaa!
+Rust is installed now. Great!
 ```
 
 Tarvitset myös _linkkerin_, joka yhdistää Rustin kääntämät tiedostot yhdeksi ohjelmaksi. Sinulla saattaa jo olla sellainen. Jos saat linkkerivirheitä, sinun kannattaa asentaa C-kääntäjä, joka yleensä sisältää linkkerin. C-kääntäjä on hyödyllinen myös siksi, että monet Rust-kirjastot riippuvat C-koodista ja tarvitsevat kääntäjän.
