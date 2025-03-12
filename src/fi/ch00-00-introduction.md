@@ -75,9 +75,27 @@ Kirja olettaa, että olet kirjoittanut koodia jollakin ohjelmointikielellä aiem
 
 <span id="ferris"></span>
 
-Kirjan luvut on järjestetty siten, että ne rakentuvat aiempien lukujen käsitteiden päälle. Kirja sisältää kahdenlaisia lukuja: käsitelukuja ja projektipohjaisia lukuja. Käsiteluvuissa opit Rustin eri ominaisuuksista, kun taas projektipohjaisissa luvuissa rakennamme yhdessä pieniä ohjelmia.
+Yleisesti ottaen tämä kirja on tarkoitettu luettavaksi järjestyksessä alusta loppuun. Myöhemmät luvut rakentuvat aiempien lukujen käsitteiden varaan, ja aiemmat luvut eivät välttämättä käsittele tiettyjä aiheita syvällisesti, vaan palaavat niihin myöhemmin.
 
-Yksityiskohtaisempi sisältö ja etenemissuositukset löytyvät varsinaisesta kirjan rungosta.
+Kirjassa on kahdenlaisia lukuja: käsitelukuja ja projektipohjaisia lukuja. Käsiteluvuissa opit Rustin eri ominaisuuksista, kun taas projektipohjaisissa luvuissa rakennamme yhdessä pieniä ohjelmia hyödyntäen aiemmin opittuja asioita. Luvut 2, 12 ja 21 ovat projektipohjaisia, kun taas muut ovat käsitelukuja.
+
+Luku 1 opettaa, kuinka Rust asennetaan, miten kirjoitetaan "Hello, world!" -ohjelma ja miten käytetään Cargoa, Rustin pakettienhallintaa ja rakennustyökalua. Luku 2 toimii käytännön johdantona Rust-ohjelmointiin: siinä toteutetaan yksinkertainen arvauspeli. Tässä luvussa käsitteet esitellään korkealla tasolla, ja yksityiskohtiin palataan myöhemmissä luvuissa. Jos haluat aloittaa heti käytännön tekemisellä, Luku 2 on oikea paikka. Luku 3 käsittelee Rustin piirteitä, jotka muistuttavat muiden ohjelmointikielien ominaisuuksia, ja Luvussa 4 opit Rustin omistajuusmallin perusteet. Jos haluat oppia kaikki yksityiskohdat ensin, voit halutessasi ohittaa Luvun 2 ja siirtyä suoraan Lukuun 3, palaten myöhemmin Lukuun 2, kun haluat soveltaa oppimaasi käytännössä.
+
+Luku 5 käsittelee rakenteita (structs) ja metodeja, ja Luku 6 esittelee luettelotyypit (enums), match-lauseet sekä if let -rakenteen. Näiden avulla voit luoda Rustissa omia tyyppejä.
+
+Luvussa 7 opit Rustin moduulijärjestelmän sekä siihen liittyvät näkyvyyssäännöt, jotka auttavat jäsentämään koodiasi ja määrittämään, mikä osa siitä on julkinen API (Application Programming Interface). Luku 8 käsittelee Rustin vakiona tarjoamia kokoelmatietorakenteita, kuten vektoreita (vectors), merkkijonoja (strings) ja hajautustauluja (hash maps). Luku 9 käsittelee Rustin virheenkäsittelyfilosofiaa ja tekniikoita.
+
+Luvussa 10 tutustut geneerisiin tyyppeihin (generics), rajapintoihin (traits) ja elinaikoihin (lifetimes), joiden avulla voit kirjoittaa koodia, joka toimii useille eri tyypeille. Luku 11 keskittyy testaamiseen – vaikka Rust tarjoaa vahvat turvallisuustakuut, testaus on silti tärkeää ohjelman loogisen oikeellisuuden varmistamiseksi. Luku 12 sisältää projektin, jossa toteutamme oman version grep-tyyppisestä komentorivityökalusta, joka etsii tekstiä tiedostoista. Tässä käytämme monia aiemmissa luvuissa opittuja konsepteja.
+
+Luku 13 käsittelee sulkeumia (closures) ja iteraattoreita (iterators), jotka ovat peräisin funktionaalisista ohjelmointikielistä. Luku 14 syventyy Cargoon ja parhaisiin käytäntöihin kirjastojen jakamiseen muiden kanssa. Luku 15 käsittelee Rustin tarjoamia älyosoittimia (smart pointers) ja niiden taustalla olevia rajapintoja (traits).
+
+Luvussa 16 käsittelemme rinnakkaisohjelmointia ja sitä, miten Rust auttaa ohjelmoimaan turvallisesti useilla säikeillä. Luvussa 17 laajennamme tätä käsittelemällä Rustin async ja await -syntaksia, jotka mahdollistavat kevyen rinnakkaisuuden.
+
+Luvussa 18 vertaamme Rustin idiomeja olio-ohjelmointiin ja tarkastelemme, miten Rust eroaa perinteisestä olio-ohjelmoinnista.
+
+Luku 19 toimii hakemistona Rustin mallien (patterns) ja mallivastaavuuden (pattern matching) käyttöön – nämä ovat tehokkaita tapoja ilmaista ohjelmalogiikkaa. Luku 20 kattaa edistyneitä aiheita, kuten unsafe Rust, makrot, elinaikoihin, rajapintoihin ja tyyppeihin liittyviä lisätietoja.
+
+
 
 | Ferris                                                                                                           | Meaning                                          |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
