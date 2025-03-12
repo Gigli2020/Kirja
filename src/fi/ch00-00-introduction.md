@@ -1,7 +1,7 @@
 # Johdanto
 
 > Huom: Tämä kirjan versio on sama kuin [The Rust Programming Language][nsprust], 
-> joka on saatavilla painettuna ja e-kirjana [No Starch Pressiltä][nsp].
+> joka on saatavilla painettuna ja e-kirjana [No Starch Pressiltä][nsp] englanniksi.
 
 [nsprust]: https://nostarch.com/rust-programming-language-2nd-edition
 [nsp]: https://nostarch.com/
