@@ -26,5 +26,5 @@ Kaikki Rustin kääntäjäversiot **tukevat aiempia versioita**, ja ne voivat yh
 
 Selvennyksen vuoksi: **suurin osa Rustin uusista ominaisuuksista toimii kaikissa versioissa**. Kehittäjät hyötyvät uusista ominaisuuksista riippumatta siitä, mitä versiota he käyttävät. **Joissain tapauksissa**, erityisesti uusien avainsanojen käyttöönoton yhteydessä, jotkut ominaisuudet voivat olla saatavilla **vain tietyissä Rust-versioissa**. Jos haluat hyödyntää näitä ominaisuuksia, sinun täytyy **vaihtaa projektisi käyttämään uudempaa Rust-versiota**.
 
-Lisätietoa Rustin eri versioista löytyy **[_Edition Guide_](https://doc.rust-lang.org/stable/edition-guide/)** -oppaasta, joka kuvaa tarkasti eri versioiden erot ja selittää, miten voit päivittää koodisi uuteen versioon `cargo fix` -komennolla.
+Lisätietoa Rustin eri versioista löytyy **[_Edition Guide_](https://doc.rust-lang.org/stable/edition-guide/)** -oppaasta, joka kuvaa tarkasti eri versioiden erot ja selittää, miten voit päivittää koodisi uuteen versioon `cargo fix` -komennolla. 
 
