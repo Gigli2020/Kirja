@@ -109,3 +109,4 @@ Tämä koodi kääntyy ilman virheitä. Huomaa `r#`-etuliite sekä funktion mä�
 Raakatunnisteet mahdollistavat minkä tahansa sanan käytön tunnisteena, vaikka sana olisi muuten varattu avainsanaksi. Tämä antaa ohjelmoijalle enemmän vapautta valita muuttujien ja funktioiden nimet sekä helpottaa integraatiota muiden ohjelmointikielten kanssa, joissa nämä sanat eivät ole avainsanoja. Lisäksi raakatunnisteet mahdollistavat erilaisten Rust-versioiden yhteensopivuuden. Esimerkiksi `try` ei ollut avainsana Rust 2015 -versiossa, mutta siitä tuli sellainen Rust 2018, 2021 ja 2024 -versioissa. Jos riippuvuus käyttää vanhempaa Rust-versiota, saatat joutua käyttämään raakatunnistetta (`r#try`) kutsuessasi sen funktioita. Katso lisää tietoa Rustin eri versioista kohdasta [Liite E][appendix-e]<!-- ignore -->.
 
 [appendix-e]: appendix-05-editions.html
+
