@@ -34,7 +34,7 @@ Periytettäessä `PartialEq` toteuttaa `eq`-metodin. Jos `PartialEq` periytetä�
 
 `Eq`-rajapinta ei sisällä metodeja. Sen ainoa tarkoitus on ilmaista, että kaikki kyseisen tyypin arvot ovat aina yhtäläisiä itsensä kanssa. `Eq` voidaan toteuttaa vain, jos tyyppi toteuttaa myös `PartialEq`-rajapinnan, mutta kaikki `PartialEq`:n toteuttavat tyypit eivät välttämättä voi toteuttaa `Eq`:tä. Esimerkiksi liukuluvut (`NaN`-arvot) eivät aina täytä `Eq`-rajoitetta, koska `NaN != NaN`.
 
-_(Loput rajapinnat ja esimerkit noudattavat samaa kaavaa ja säilyttävät alkuperäisen Markdown-muotoilun ja koodilohkot)_
+
 
 [macros]: ch20-05-macros.html#macros
 
