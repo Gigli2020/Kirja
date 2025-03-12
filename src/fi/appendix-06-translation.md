@@ -1,6 +1,6 @@
 ## Liite F: Kirjan käännökset
 
-Resursseja muilla kielillä kuin englanniksi. Suurin osa on vielä työn alla; katso 
+Resursseja muilla kielillä kuin englanniksi. Suurin osa muista kielistä on vielä työn alla; katso 
 [Translations-merkintä][label], jos haluat auttaa tai ilmoittaa uudesta käännöksestä!
 
 [label]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3ATranslations
