@@ -1,6 +1,6 @@
 ## Liite A: Avainsanat
 
-Seuraava luettelo sisältää avainsanoja, jotka ovat varattuina Rust-kielelle joko nykyiseen tai tulevaan käyttöön. Näitä ei voi käyttää tunnisteina (paitsi raakatunnisteina, kuten käsitellään kohdassa "[Raakatunnisteet][raw-identifiers]<!-- ignore -->").  
+Seuraava luettelo sisältää avainsanoja, jotka ovat varattuina Rust-kielelle joko nykyiseen tai tulevaan käyttöön. Näitä ei voi käyttää tunnisteina (paitsi raakatunnisteina, kuten käsitellään kohdassa "[Raakatunnisteet eli raw-identifiers][raw-identifiers]<!-- ignore -->").  
 Tunnisteet ovat nimiä, joita käytetään funktioissa, muuttujissa, parametreissa, rakenteiden kentissä, moduleissa, paketeissa, vakioissa, makroissa, staattisissa arvoissa, attribuuteissa, tyypeissä, rajapinnoissa (traits) tai elinaikojen hallinnassa.
 
 [raw-identifiers]: #raw-identifiers
