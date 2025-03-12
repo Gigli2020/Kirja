@@ -40,5 +40,5 @@ _(Taulukot ja selitykset jatkavat samalla rakenteella kuin alkuperäisessä doku
 
 ---
 
-Käännös säilyttää Rust-koodin ennallaan ja muotoilun Markdown-formaatissa.
+
 
