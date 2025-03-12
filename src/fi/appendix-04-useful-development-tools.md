@@ -144,3 +144,4 @@ Asennusohjeet löytyvät `rust-analyzer`-projektin [kotisivulta][rust-analyzer]<
 [rust-analyzer]: https://rust-analyzer.github.io
 [lsp]: http://langserver.org/
 [vscode]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
+
