@@ -77,6 +77,13 @@ Kirjan luvut on järjestetty siten, että ne rakentuvat aiempien lukujen käsitt
 
 Yksityiskohtaisempi sisältö ja etenemissuositukset löytyvät varsinaisesta kirjan rungosta.
 
+| Ferris                                                                                                           | Meaning                                          |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| <img src="img/ferris/does_not_compile.svg" class="ferris-explain" alt="Ferris with a question mark"/>            | This code does not compile!                      |
+| <img src="img/ferris/panics.svg" class="ferris-explain" alt="Ferris throwing up their hands"/>                   | This code panics!                                |
+| <img src="img/ferris/not_desired_behavior.svg" class="ferris-explain" alt="Ferris with one claw up, shrugging"/> | This code does not produce the desired behavior. |
+
+
 ## Lähdekoodi
 
 Tämän kirjan lähdetiedostot löytyvät [GitHubista][book].
