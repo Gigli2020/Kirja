@@ -88,5 +88,5 @@ Jos RFC hyväksytään, siitä avataan **GitHub-issue**, jonka kuka tahansa voi 
 
 Kun tarpeeksi **nightly-käyttäjiä on testannut ominaisuutta**, Rust-tiimi arvioi, pitäisikö se tuoda vakaaseen Rustiin. Jos kyllä, **feature flag poistetaan** ja ominaisuus lisätään vakaaseen julkaisuun seuraavassa aikataulun mukaisessa versiossa.
 
-Tämä prosessi varmistaa, että Rust **kehittyy jatkuvasti ilman että vakaus kärsii** – eli **"stability without stagnation"**.
+Tämä prosessi varmistaa, että Rust **kehittyy jatkuvasti ilman että vakaus kärsii** – eli **"stability without stagnation"**. 
 
