@@ -109,3 +109,4 @@ Tämä kirja ei edellytä tietyn työkalun käyttöä Rust-koodin kirjoittamisee
 [msvc]: https://rust-lang.github.io/rustup/installation/windows-msvc.html
 [community]: https://www.rust-lang.org/community
 [tools]: https://www.rust-lang.org/tools
+
