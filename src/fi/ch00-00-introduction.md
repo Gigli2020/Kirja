@@ -73,6 +73,8 @@ Kirja olettaa, että olet kirjoittanut koodia jollakin ohjelmointikielellä aiem
 
 ## Miten tätä kirjaa kannattaa lukea?
 
+<span id="ferris"></span>
+
 Kirjan luvut on järjestetty siten, että ne rakentuvat aiempien lukujen käsitteiden päälle. Kirja sisältää kahdenlaisia lukuja: käsitelukuja ja projektipohjaisia lukuja. Käsiteluvuissa opit Rustin eri ominaisuuksista, kun taas projektipohjaisissa luvuissa rakennamme yhdessä pieniä ohjelmia.
 
 Yksityiskohtaisempi sisältö ja etenemissuositukset löytyvät varsinaisesta kirjan rungosta.
