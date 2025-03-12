@@ -37,3 +37,6 @@ Periytett채ess채 `PartialEq` toteuttaa `eq`-metodin. Jos `PartialEq` periytet채�
 _(Loput rajapinnat ja esimerkit noudattavat samaa kaavaa ja s채ilytt채v채t alkuper채isen Markdown-muotoilun ja koodilohkot)_
 
 [macros]: ch20-05-macros.html#macros
+
+
+
