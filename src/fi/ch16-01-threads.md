@@ -41,3 +41,5 @@ Esimerkissä 16-1 luotu säie päättyy usein ennenaikaisesti pääsäikeen pä�
 
 Voimme korjata tämän ongelman tallentamalla `thread::spawn`-funktion palauttaman arvon muuttujaan. `thread::spawn` palauttaa `JoinHandle`-tyyppisen arvon, joka edustaa luotua säiettä. Kun kutsumme `join`-metodia tälle arvolle, ohjelma odottaa, että kyseinen säie päättyy ennen kuin jatkaa suorittamista.
 
+
+
