@@ -4,7 +4,15 @@
 
 Tämä arkisto sisältää The Rust Programming Language -kirjan lähdekoodin.
 
-Alla olevan tekstin linkit vievät Rust the book:n sivuille. src .md tiedostot käännetty ch00 00-ch 13 04 asti (66 tiedostoa käännetty tekoälyllä)
+Alla olevan tekstin linkit vievät Rust the book:n sivuille. src/fi .md tiedostot käännetty tekoälyllä, pidemmät tiedostot pielessä, lyhyemmät ok. Työvaiheet
+
+1. src/fi läpikäynti, OK! viimeisenä muutoksena niihin jotka katsottu läpi. Tässä tarkastuksessa menee aikaa, src kansiossa alkuperäiset eng tiedostot johon verrataan.
+
+2.Tekniset viittaukset kuntoon, jotta hakee käännetyistä tiedot,joko siirretään fi--->src kansioon eng tilalle tai sitten tiedostoihin viittaukset src/fi kansioon.
+
+3. Julkistetaan kirja, oma page sille
+
+4. Kuittaus 
 
 [Kirja on saatavilla painettuna englanniksi No Starch Pressin kautta][nostarch].
 
