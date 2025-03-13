@@ -12,7 +12,7 @@ Alla olevan tekstin linkit vievät Rust the book:n sivuille. src/fi .md tiedosto
 
 3. Julkistetaan kirja, oma page sille
 
-4. Kuittaus 
+4. Kuittaus https://github.com/rust-lang/book/issues/4268
 
 [Kirja on saatavilla painettuna englanniksi No Starch Pressin kautta][nostarch].
 
