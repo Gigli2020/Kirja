@@ -6,9 +6,9 @@ Tämä arkisto sisältää The Rust Programming Language -kirjan lähdekoodin.
 
 Alla olevan tekstin linkit vievät Rust the book:n sivuille. src/fi .md tiedostot käännetty tekoälyllä, pidemmät tiedostot pielessä, lyhyemmät ok. Työvaiheet
 
-1. src/fi läpikäynti, OK! viimeisenä muutoksena niihin jotka katsottu läpi. Tässä tarkastuksessa menee aikaa, src kansiossa alkuperäiset eng tiedostot johon verrataan.
+1. src/fi läpikäynti, OK! viimeisenä muutoksena niihin jotka katsottu läpi ja ok. Tässä tarkastuksessa menee aikaa, src kansiossa alkuperäiset eng tiedostot johon verrataan.
 
-2.Tekniset viittaukset kuntoon, jotta hakee käännetyistä tiedot,joko siirretään fi--->src kansioon eng tilalle tai sitten tiedostoihin viittaukset src/fi kansioon.
+2.Tekniset viittaukset kuntoon, jotta hakee käännetyistä tiedot siirretään fi--->src kansioon eng tilalle ja eng omaan kansioon.
 
 3. Julkistetaan kirja, oma page sille
 
