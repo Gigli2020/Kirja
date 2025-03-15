@@ -129,4 +129,4 @@ Cargo tarjoaa yhtenäisen kehityskokemuksen käyttöjärjestelmästä riippumatt
 [installation]: ch01-01-installation.html#installation
 [toml]: https://toml.io
 [appendix-e]: appendix-05-editions.html
-[cargo]: https://doc.rust-lang.org/cargo/
+[cargo]: https://doc.rust-lang.org/cargo/ 
