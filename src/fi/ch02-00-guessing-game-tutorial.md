@@ -189,5 +189,5 @@ Tämä mahdollistaa **uusien arvauksien syöttämisen** niin kauan, kunnes käyt
 
 Tässä luvussa rakensimme **arvauspelin** ja opimme Rustin peruskäsitteitä, kuten muuttujia, syötteen lukemista, `match`-lausekkeita ja Cargo-riippuvuuksia.
 
-Seuraavaksi siirrymme tarkastelemaan Rustin perusrakenteita tarkemmin!
+Seuraavaksi siirrymme tarkastelemaan Rustin perusrakenteita tarkemmin! 
 
