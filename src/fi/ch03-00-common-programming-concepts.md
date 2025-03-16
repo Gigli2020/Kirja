@@ -26,14 +26,8 @@ Seuraavissa osioissa tutustumme Rustin **muuttujiin ja muuttumattomuuteen**.
 > erityinen merkitys, ja käytät niitä erilaisiin tehtäviin Rust-
 > ohjelmissasi; Joillakin avainsanoilla ei tällä hetkellä ole mitään toiminnallisuutta, mutta ne on
 > mutta ne on varattu tulevaisuuden mahdollisia lisäyksiä varten.
-> Voit löytää listan avainsanoista[appendix_a][appendix_a]<!-- ignore -->.
+> Voit löytää listan avainsanoista [Liitteestä-A appendix_a][appendix_a]<!-- ignore -->.
 
 [appendix_a]: appendix-01-keywords.md
-
->### Avainsanat
-
-Rust-kielellä on joukko avainsanoja, jotka on varattu vain kielen käyttöön, kuten monissa muissakin ohjelmointikielissä. Muista, että et voi käyttää näitä sanoja muuttujien tai funktioiden niminä. Useimmilla avainsanoilla on erityinen merkitys, ja käytät niitä erilaisiin tehtäviin Rust-ohjelmissasi. Joillakin avainsanoilla ei tällä hetkellä ole mitään toiminnallisuutta, mutta ne on varattu tulevaisuuden mahdollisia lisäyksiä varten.
-
-Voit löytää listan avainsanoista liitteestä A.
 
 
