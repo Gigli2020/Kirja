@@ -26,7 +26,7 @@ Seuraavissa osioissa tutustumme Rustin **muuttujiin ja muuttumattomuuteen**.
 > erityinen merkitys, ja käytät niitä erilaisiin tehtäviin Rust-
 > ohjelmissasi; Joillakin avainsanoilla ei tällä hetkellä ole mitään toiminnallisuutta, mutta ne on
 > mutta ne on varattu tulevaisuuden mahdollisia lisäyksiä varten.
-> Voit löytää listan avainsanoista [Liitteestä-A appendix_a][appendix_a]<!-- ignore -->.
+> Voit löytää listan avainsanoista [appendix_a][appendix_a]<!-- ignore -->.
 
 [appendix_a]: appendix-01-keywords.md
 
