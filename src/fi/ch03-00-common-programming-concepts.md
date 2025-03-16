@@ -29,5 +29,3 @@ Seuraavissa osioissa tutustumme Rustin **muuttujiin ja muuttumattomuuteen**.
 > Voit löytää listan avainsanoista [liitteeestä-A][appendix_a]<!-- ignore -->.
 
 [appendix_a]: appendix-01-keywords.md
-
-
