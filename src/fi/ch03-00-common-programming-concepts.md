@@ -18,7 +18,7 @@ Rustilla ohjelmoinnille. Tämä luku auttaa sinua ymmärtämään Rustin ainutla
 
 Seuraavissa osioissa tutustumme Rustin **muuttujiin ja muuttumattomuuteen**.
 
-> #### Keywords
+> #### Avainsanat
 >
 > The Rust language has a set of _keywords_ that are reserved for use by the
 > language only, much as in other languages. Keep in mind that you cannot use
@@ -29,3 +29,11 @@ Seuraavissa osioissa tutustumme Rustin **muuttujiin ja muuttumattomuuteen**.
 > can find a list of the keywords in [Appendix A][appendix_a]<!-- ignore -->.
 
 [appendix_a]: appendix-01-keywords.md
+
+>### Avainsanat
+
+Rust-kielellä on joukko avainsanoja, jotka on varattu vain kielen käyttöön, kuten monissa muissakin ohjelmointikielissä. Muista, että et voi käyttää näitä sanoja muuttujien tai funktioiden niminä. Useimmilla avainsanoilla on erityinen merkitys, ja käytät niitä erilaisiin tehtäviin Rust-ohjelmissasi. Joillakin avainsanoilla ei tällä hetkellä ole mitään toiminnallisuutta, mutta ne on varattu tulevaisuuden mahdollisia lisäyksiä varten.
+
+Voit löytää listan avainsanoista liitteestä A.
+
+
