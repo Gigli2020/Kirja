@@ -1,5 +1,7 @@
 ## Tietotyypit
 
+Jokainen Rustin arvo on tiettyä tietotyyppiä, mikä kertoo Rustille, millaista dataa määritetään, jotta se tietää, kuinka näiden tietojen kanssa työskennellä. Tarkastellaan kahta tietotyyppien alajoukkoa: skalaari ja yhdiste.
+
 Rust on **staattisesti tyypitetty kieli**, mikä tarkoittaa, että jokaisen muuttujan ja arvon tyyppi tunnetaan kääntäjän aikana. Tämä auttaa tunnistamaan mahdolliset virheet jo ennen ohjelman suoritusta.
 
 Tässä luvussa opimme:
