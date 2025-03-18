@@ -110,4 +110,4 @@ Tulostaa `The value of x is: 6`. Mutta jos lisäisimme puolipisteen riville `x +
 {{#rustdoc_include ../listings/ch03-common-programming-concepts/no-listing-23-statements-dont-return-values/src/main.rs}}
 ```
 
-Rustin virheilmoitus ehdottaa puolipisteen poistamista, mikä korjaisi virheen.
+Rustin virheilmoitus ehdottaa puolipisteen poistamista, mikä korjaisi virheen. 
